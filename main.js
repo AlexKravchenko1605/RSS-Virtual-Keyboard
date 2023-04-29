@@ -15,7 +15,7 @@ const textarea = document.querySelector(".textarea");
 const classListLengthMIN = 2;
 const classListLengthMAX = 4;
 
-let language = checkLanguage();
+const language = checkLanguage();
 
 if (language === "ru") {
   ru_variant.forEach((el) => el.classList.remove("hidden"));
