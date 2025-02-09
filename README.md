@@ -1,4 +1,4 @@
-# RSS-Virtual-Keyboard
+# Virtual-Keyboard
 
 Technology stack
 
